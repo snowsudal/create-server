@@ -14,3 +14,4 @@ https://download1474.mediafire.com/02jx622w7jcg19DOKfd8ipq6wfkRO9PD1NqFsfD7HSbRw
 https://mediafilez.forgecdn.net/files/6726/950/create_train_additions-0.3.2.jar
 https://mediafilez.forgecdn.net/files/6441/980/create_train_announcer-1.0.0-forge-1.20.1.jar
 https://mediafilez.forgecdn.net/files/6658/942/geckolib-forge-1.20.1-4.7.2.jar
+https://mediafilez.forgecdn.net/files/5853/326/kubejs-forge-2001.6.5-build.16.jar
