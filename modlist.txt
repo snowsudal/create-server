@@ -13,3 +13,4 @@ https://cdn.discordapp.com/attachments/1302261798220599396/1391004626299650098/e
 https://cdn.discordapp.com/attachments/1302261798220599396/1391004626807029780/netmusic-1.20.1-1.1.3.jar?ex=686a5182&is=68690002&hm=46aedaa5b6db1dcfb06e915c0c4af564113e2360cd79d1fee016e0482d0a2661&
 https://mediafilez.forgecdn.net/files/6726/950/create_train_additions-0.3.2.jar
 https://mediafilez.forgecdn.net/files/6441/980/create_train_announcer-1.0.0-forge-1.20.1.jar
+https://mediafilez.forgecdn.net/files/6658/942/geckolib-forge-1.20.1-4.7.2.jar
