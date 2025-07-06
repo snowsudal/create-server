@@ -8,9 +8,9 @@ https://mediafilez.forgecdn.net/files/5840/17/Steam_Rails-1.6.7%2Bforge-mc1.20.1
 https://mediafilez.forgecdn.net/files/5629/578/FramedBlocks-9.3.1.jar
 https://mediafilez.forgecdn.net/files/6531/428/framework-forge-1.20.1-0.7.15.jar
 https://mediafilez.forgecdn.net/files/5532/952/moderntrainparts-0.1.7-forge-mc1.20.1-cr0.5.1.f.jar
-https://cdn.discordapp.com/attachments/1302261798220599396/1391004627268534312/worldedit-mod-7.2.15.jar?ex=686a5182&is=68690002&hm=e0edc8e0da113a76fe6099fc3fc0b7d7f7b056a2ae386bf9b5dab3c0ced60a89&
-https://cdn.discordapp.com/attachments/1302261798220599396/1391004626299650098/extendedbogeys-0.5.12-1.20.1-0.5.1.f-forge.jar?ex=686a5182&is=68690002&hm=1279c6b5689839bd8edaeffb5c2c3145e68cd48ac149267bdd8a8d665839e6c9&
-https://cdn.discordapp.com/attachments/1302261798220599396/1391004626807029780/netmusic-1.20.1-1.1.3.jar?ex=686a5182&is=68690002&hm=46aedaa5b6db1dcfb06e915c0c4af564113e2360cd79d1fee016e0482d0a2661&
+https://download1529.mediafire.com/vzfazsx27zmgiJtx-la0CqmEmy_K16itVpVth2lOXM72tx7vTVVScfBLFWXCpQUiGqz4MMxgohtFD2fjXfCyz-koytcwLad3Lv-13ib54PGVadJF2dGVB5zbaJXSftZM1PhUU1ZXYmvatY-x15im73N6c2OV3E_0AwfCa3QaU1MIAw/sfwbt8wpzn23fj3/netmusic-1.20.1-1.1.3.jar
+https://download1085.mediafire.com/uh1msachw3egCZT3tfGFqXDxqDuh4OTwv6gZfxwxY3CO1khvzMcMbMF7joU_mybIBCfgU-_DzNLq-olyARJaeK0SCxIT35cj2sHGwnagjd7yRkjxRZwl9oyLEALqEKAGd1iKGMup-yWFkgT94lfxnviisXv2GIctkA1x1jKgk25aOA/ejtxymmkzgecfe0/worldedit-mod-7.2.15.jar
+https://download1474.mediafire.com/02jx622w7jcg19DOKfd8ipq6wfkRO9PD1NqFsfD7HSbRwx7KqtdcfGljjrWtDCIK1AsnuKmxqzRb0gYtCTyoGrdppD7X8XRatp5p14GVsY02wIYugrz477ksLEOTMzUlvhX6O9k-XIm-AtF5tlW3duNPwcOjcmkhqe5oZ1r87x1Uug/gtewdyjr51weszl/extendedbogeys-0.5.12-1.20.1-0.5.1.f-forge.jar
 https://mediafilez.forgecdn.net/files/6726/950/create_train_additions-0.3.2.jar
 https://mediafilez.forgecdn.net/files/6441/980/create_train_announcer-1.0.0-forge-1.20.1.jar
 https://mediafilez.forgecdn.net/files/6658/942/geckolib-forge-1.20.1-4.7.2.jar
